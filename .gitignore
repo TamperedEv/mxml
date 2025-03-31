@@ -19,6 +19,8 @@
 /scratch
 /testmxml
 /vcnet/.vs
+/vcnet/x64
+/vcnet/Win32
 /vcnet/Debug
 /vcnet/Release
 /vcnet/packages

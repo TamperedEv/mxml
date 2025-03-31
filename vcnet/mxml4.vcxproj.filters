@@ -18,9 +18,6 @@
     <ClCompile Include="..\mxml-attr.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\mxml-entity.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\mxml-file.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -42,7 +39,7 @@
     <ClCompile Include="..\mxml-set.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\mxml-string.c">
+    <ClCompile Include="..\mxml-options.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -58,8 +55,8 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="mxml1.def">
-      <Filter>Resource Files</Filter>
+    <None Include="mxml4.def">
+      <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
 </Project>
